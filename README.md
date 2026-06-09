@@ -1,5 +1,5 @@
  About Me:
-Tech Stack<br><br> Machine Learning & AI<br>Machine Learning, Deep Learning (CNN), Scikit-learn, TensorFlow/Keras, NumPy, Pandas, OpenCV<br><br> Backend Development<br>Python, FastAPI, REST API Development<br><br>🎨 Frontend Development<br>HTML5, CSS3, JavaScript (ES6+), React.js, Tailwind CSS<br><br>🗄️ Database<br>MongoDB, MySQL<br><br>🛠 Tools & Technologies<br>Git, GitHub, Linux
+Tech Stack<br><br> Machine Learning & AI<br>Machine Learning, Deep Learning (CNN), Scikit-learn, TensorFlow/Keras, NumPy, Pandas, OpenCV<br><br> Backend Development<br>Python, FastAPI, REST API Development<br><br>🎨 Frontend Development<br>HTML5, CSS3, JavaScript (ES6+), React.js, Tailwind CSS<br><br>🗄️ Database<br>MongoDB, MySQL<br><br> Tools & Technologies<br>Git, GitHub, Linux
 
 
 #  Tech Stack:
