@@ -1,307 +1,499 @@
-<div align="center">
+# 👋 Hi, I'm Bishnu Prasad
 
-# ⚡ Bishnu Prasad
+### AI/ML Engineer · Full-Stack Developer · Building Intelligent Products
 
-### Full Stack Developer | ML Engineer | AI Enthusiast
-
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║  Crafting Intelligent Solutions with Python, AI & Modern Web Tech  ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/bishnu-prasad)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourprofile)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:your.email@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=bishnu-prasad&style=flat-square&color=0099ff)
-
-</div>
-
----
-
-## 🚀 About Me
-
-```
-I build intelligent, scalable solutions that combine:
-  → Machine Learning & AI expertise
-  → Production-ready backend architecture  
-  → Modern, responsive frontend design
-  → Cloud deployment & DevOps best practices
+```text
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   I build intelligent software that connects AI, data,          │
+│   backend systems, and modern user experiences.                 │
+│                                                                 │
+│   Python  •  Machine Learning  •  FastAPI  •  React  •  AI     │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
-With **3+ years** of experience, I specialize in transforming complex problems into elegant solutions using cutting-edge technology.
-
-- 🔬 **Deep Learning** & Computer Vision (TensorFlow, PyTorch, OpenCV)
-- 💻 **Full-Stack Development** (FastAPI, React, Node.js)
-- 🌐 **Web Architecture** (REST APIs, Microservices, Docker)
-- ☁️ **Cloud Deployment** (AWS, Docker, CI/CD)
-- 🎯 **Problem Solver** with passion for clean, maintainable code
+<p align="center">
+  <strong>Turning ideas → intelligent systems → real-world products.</strong>
+</p>
 
 ---
 
-## 📊 Quick Stats
+## 🧑‍💻 About Me
 
-<div align="center">
+I'm a **Full-Stack Developer and Machine Learning Engineer** passionate about building practical AI-powered applications.
 
-| 🎯 Projects | ⏰ Experience | 🛠️ Technologies | 🔥 Commits |
-|:---:|:---:|:---:|:---:|
-| **50+** | **3+ Years** | **12+** | **100%** |
+My work sits at the intersection of:
 
-</div>
-
----
-
-## 💻 Tech Stack
-
-### 🤖 Artificial Intelligence & Machine Learning
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-
-</div>
-
-### 🔥 Backend Development
-
-<div align="center">
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6B6B?style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-</div>
-
-### ⚡ Frontend Development
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-</div>
-
-### 💾 Databases & Cloud
-
-<div align="center">
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-### 🛠️ Tools & DevOps
-
-<div align="center">
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-</div>
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bishnu-prasad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&count_private=true&include_all_commits=true)
-
-### 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=bishnu-prasad&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=FF1744&currStreakNum=58a6ff)
-
-### 🏆 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bishnu-prasad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-### My Best Work
-
-</div>
-
-| # | Project | Description | Tech Stack | Status |
-|:---:|---------|-------------|-----------|:------:|
-| 🥇 | **AI Model Deployment** | Production ML models served via FastAPI with Docker containerization | `Python` `TensorFlow` `FastAPI` `Docker` `AWS` | ![Active](https://img.shields.io/badge/Active-32CD32) |
-| 🥈 | **Full-Stack Web Application** | Modern web app with React frontend, FastAPI backend, MongoDB database | `React` `FastAPI` `MongoDB` `Tailwind` `Docker` | ![Active](https://img.shields.io/badge/Active-32CD32) |
-| 🥉 | **Data Analytics Dashboard** | Real-time visualization platform with interactive charts and insights | `React` `Python` `Pandas` `Plotly` `PostgreSQL` | ![Active](https://img.shields.io/badge/Active-32CD32) |
-| 🎯 | **Deep Learning CNN** | Convolutional Neural Network for image classification & computer vision | `TensorFlow` `Keras` `OpenCV` `Python` `Jupyter` | ![Active](https://img.shields.io/badge/Active-32CD32) |
-| 🔐 | **REST API Framework** | Secure, scalable API with JWT authentication and best practices | `FastAPI` `PostgreSQL` `Docker` `JWT` `Testing` | ![Active](https://img.shields.io/badge/Active-32CD32) |
-| 🌍 | **Open Source Contributions** | Active contributor to multiple ML and web development projects | `GitHub` `Git` `Community` `OSS` | ![Ongoing](https://img.shields.io/badge/Ongoing-FFA500) |
-
----
-
-## 💡 Currently Working On
-
+```text
+Artificial Intelligence
+        +
+Machine Learning
+        +
+Backend Engineering
+        +
+Modern Frontend Development
+        +
+Cloud & Deployment
 ```
-🔬 Advanced Deep Learning Architectures & Models
+
+I enjoy taking an idea from **model training and data processing** all the way to a **production-ready web application**.
+
+### What I work with
+
+* 🤖 Machine Learning & Artificial Intelligence
+* 🧠 Deep Learning & Computer Vision
+* 🐍 Python & modern backend development
+* ⚡ FastAPI & REST API architecture
+* ⚛️ React / Next.js applications
+* 🎨 Tailwind CSS & modern UI development
+* 🗄️ MongoDB & PostgreSQL
+* 🐳 Docker & containerized applications
+* ☁️ Cloud deployment & DevOps
+* 📊 Data analysis and visualization
+
+---
+
+# 🚀 What I Build
+
+I particularly enjoy building **AI-powered products rather than isolated ML notebooks**.
+
+### My development workflow
+
+```text
+Problem
    ↓
-🚀 Scaling ML Models to Production (FastAPI + Docker)
+Research & Data
    ↓
-🌐 Building Modern React Applications (Tailwind CSS)
+Machine Learning
    ↓
-📊 Real-time Data Processing & Visualization
+API / Backend
    ↓
-🤝 Open-Source AI/ML Project Contributions
+Frontend Experience
    ↓
-☁️ Cloud Deployment & AWS Services
+Deployment
+   ↓
+Real-World Product
+```
+
+This allows me to work across the complete lifecycle of an intelligent application.
+
+---
+
+# 🧠 AI & Machine Learning
+
+### Core Areas
+
+```text
+Machine Learning       █████████████████░░░  90%
+Deep Learning          ████████████████░░░░  85%
+Computer Vision        ███████████████░░░░░  80%
+Data Science           ████████████████░░░░  85%
+Model Deployment       ███████████████░░░░░  80%
+```
+
+### Technologies
+
+```text
+Python
+Scikit-learn
+TensorFlow
+PyTorch
+OpenCV
+Pandas
+NumPy
+Matplotlib
+Jupyter
+```
+
+### ML Interests
+
+* Classification & Regression
+* Natural Language Processing
+* Computer Vision
+* Deep Learning
+* Feature Engineering
+* Model Evaluation
+* Model Deployment
+* Explainable AI
+* AI-powered applications
+
+---
+
+# ⚡ Backend Engineering
+
+I build APIs and backend services designed to connect machine learning systems with real-world applications.
+
+### Technologies
+
+```text
+Python
+FastAPI
+REST APIs
+Pydantic
+Uvicorn
+Node.js
+JWT Authentication
+Microservices
+API Architecture
+```
+
+### Backend Focus
+
+* RESTful API design
+* ML inference APIs
+* Authentication & authorization
+* Request validation
+* Database integration
+* Scalable backend architecture
+* API documentation
+* Production deployment
+
+---
+
+# 🎨 Frontend Development
+
+I build modern interfaces that make complex technology simple for users.
+
+### Technologies
+
+```text
+React
+Next.js
+TypeScript
+JavaScript
+Tailwind CSS
+Framer Motion
+Chart.js
+```
+
+### Frontend Focus
+
+* Responsive interfaces
+* Modern dashboards
+* AI chat interfaces
+* Data visualization
+* Interactive applications
+* Clean component architecture
+* API-driven applications
+* Mobile-friendly experiences
+
+---
+
+# ☁️ Cloud & DevOps
+
+```text
+Docker
+AWS
+Vercel
+Render
+Git
+GitHub
+CI/CD
+Linux
+```
+
+I enjoy taking applications beyond local development and making them accessible through reliable deployment pipelines.
+
+---
+
+# 🗄️ Databases
+
+```text
+MongoDB
+MongoDB Atlas
+PostgreSQL
+MySQL
+```
+
+Experience includes designing application data models, integrating databases with APIs, and building data-driven applications.
+
+---
+
+# 🛠️ My Technology Stack
+
+| Area         | Technologies                                 |
+| ------------ | -------------------------------------------- |
+| 🐍 Languages | Python · JavaScript · TypeScript · SQL       |
+| 🤖 AI/ML     | Scikit-learn · TensorFlow · PyTorch · OpenCV |
+| ⚡ Backend    | FastAPI · Node.js · REST APIs · Pydantic     |
+| ⚛️ Frontend  | React · Next.js · Tailwind CSS               |
+| 🗄️ Database | MongoDB · PostgreSQL · MySQL                 |
+| ☁️ Cloud     | AWS · Vercel · Render                        |
+| 🐳 DevOps    | Docker · Git · GitHub · CI/CD                |
+| 📊 Data      | Pandas · NumPy · Matplotlib · Chart.js       |
+
+---
+
+# 🔥 Featured Projects
+
+## 🩺 CardioPredict
+
+### AI-Assisted Heart Disease Risk Prediction
+
+A full-stack machine learning application that estimates heart disease risk from clinical and cardiac parameters.
+
+```text
+React
+   ↓
+FastAPI
+   ↓
+Scikit-learn
+   ↓
+Prediction + Probability
+   ↓
+Risk Visualization
+```
+
+**Highlights**
+
+* Machine learning classification
+* Clinical parameter processing
+* Probability prediction
+* FastAPI inference API
+* React-based interface
+* Responsive risk visualization
+
+**Tech:** `Python` `Scikit-learn` `FastAPI` `React`
+
+---
+
+## 💰 Velora
+
+### Smart Expense Tracking for Modern India
+
+An intelligent expense management platform that automatically categorizes user expenses using machine learning.
+
+```text
+Expense Description
+        ↓
+TF-IDF
+        ↓
+ML Classification
+        ↓
+Expense Category
+        ↓
+MongoDB
+        ↓
+Analytics Dashboard
+```
+
+**Highlights**
+
+* AI-powered expense categorization
+* TF-IDF text processing
+* FastAPI backend
+* MongoDB Atlas
+* React frontend
+* Financial analytics dashboard
+
+**Tech:** `Python` `Scikit-learn` `FastAPI` `React` `MongoDB`
+
+---
+
+## 🩸 DiaPredict
+
+### AI-Powered Diabetes Risk Prediction
+
+A conversational health-risk assessment application combining machine learning with a modern chat-based interface.
+
+```text
+User
+ ↓
+Conversational Assessment
+ ↓
+Input Validation
+ ↓
+FastAPI
+ ↓
+Logistic Regression
+ ↓
+Risk Probability
+ ↓
+Interactive Result
+```
+
+**Highlights**
+
+* AI-style conversational assessment
+* Logistic Regression
+* Clinical input validation
+* Probability-based prediction
+* Next.js interface
+* Persistent chat state
+* Modern clinical-inspired UI
+
+**Tech:** `Python` `FastAPI` `Scikit-learn` `Next.js` `TypeScript`
+
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+
+### Building. Learning. Shipping.
+
+</p>
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│       CODE        →        LEARN        →             │
+│          BUILD        →        DEPLOY                 │
+│                                                      │
+│              →        REPEAT        ←                 │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+
+I focus on consistent development, practical projects, and continuously improving my engineering skills.
+
+---
+
+# 🎯 Current Focus
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│  🤖 Advanced Machine Learning                        │
+│                                                      │
+│  ⚡ Production ML APIs with FastAPI                   │
+│                                                      │
+│  🧠 Deep Learning & Computer Vision                  │
+│                                                      │
+│  ⚛️ Modern React / Next.js Applications              │
+│                                                      │
+│  🏗️ Scalable System Architecture                     │
+│                                                      │
+│  🐳 Docker & Cloud Deployment                         │
+│                                                      │
+│  📊 Data-driven Applications                          │
+│                                                      │
+└──────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🎓 Skills Matrix
+# 📚 Currently Learning
 
-<div align="center">
-
-```
-Machine Learning        ████████████████░░  90%
-Backend Development     ███████████████░░░  85%
-Frontend Development    ██████████████░░░░  80%
-Data Science           ███████████████░░░  85%
-Problem Solving        ████████████████░░  92%
-Cloud & DevOps         █████████████░░░░░  75%
-System Design          ███████████████░░░  85%
-Open Source Contrib.   ██████████░░░░░░░░  70%
-```
-
-</div>
+* Advanced Machine Learning
+* Deep Learning architectures
+* MLOps & production ML systems
+* System design
+* Cloud architecture
+* Scalable backend systems
+* AI application development
+* Explainable AI
 
 ---
 
-## 🌟 What I'm Learning
+# 🧩 Engineering Philosophy
 
-<div align="center">
+> **Build simple. Think deeply. Ship useful things.**
 
-| 📚 Focus Area | 🎯 Goal | ⏰ Timeline |
-|---|---|---|
-| Advanced Deep Learning | Build 5 Production ML Apps | 2024 |
-| Cloud Architecture | AWS Certification | Q2 2024 |
-| System Design | Design Scalable Systems | Ongoing |
-| Leadership | Mentor Junior Developers | 2024+ |
+I believe good engineering is not just about using the latest technology.
 
-</div>
+It's about understanding the problem, choosing the right tools, writing maintainable code, and creating something that actually provides value.
 
----
-
-## 💼 Open For Collaboration
-
-```
-✅ Freelance Projects
-✅ Open Source Contributions  
-✅ Technical Collaborations
-✅ Internship Opportunities
-✅ Consulting & Advisory
+```text
+Complex Problem
+      ↓
+Understand
+      ↓
+Simplify
+      ↓
+Design
+      ↓
+Build
+      ↓
+Test
+      ↓
+Deploy
+      ↓
+Improve
 ```
 
 ---
 
-## 📬 Let's Connect!
+# 🤝 Open to Collaboration
 
-<div align="center">
+I'm interested in collaborating on:
 
-### Get In Touch
+* 🤖 AI / ML projects
+* 🧠 Deep Learning projects
+* 🌐 Full-stack applications
+* ⚡ Backend systems
+* 📊 Data-driven products
+* 🚀 Startup ideas
+* 🌱 Open-source projects
+* 💡 Interesting technical experiments
 
-<a href="https://linkedin.com/in/yourprofile">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://twitter.com/yourprofile">
-  <img src="https://img.shields.io/badge/Follow%20on%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-
-<a href="mailto:your.email@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://yourportfolio.com">
-  <img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white" />
-</a>
-
-</div>
+If you're building something meaningful with technology, feel free to reach out.
 
 ---
 
-## 💬 A Message From Me
+# 🌍 Let's Connect
 
-<div align="center">
+<p align="center">
 
-> **"Building the future, one line of code at a time."**
->
-> I'm passionate about leveraging technology to solve real-world problems. Whether it's training neural networks, architecting scalable systems, or crafting intuitive user experiences, I bring creativity and precision to every project.
->
-> Let's create something extraordinary together! 🚀
+**Let's build something intelligent together.**
 
-</div>
+</p>
 
----
-
-<div align="center">
-
-## 🎯 Fun Facts
-
-- 🏆 **50+** projects shipped to production
-- 🌍 **Contributed** to open-source communities
-- 📚 **Continuous learner** - Reading tech papers weekly
-- 🎮 **Tech enthusiast** - Always exploring new technologies
-- ☕ **Coffee-driven** - Fueled by curiosity & caffeine
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ If you find my work interesting, consider giving a star! ⭐
-
-```
-╔════════════════════════════════════════════════════════════╗
-║  "The only way to do great work is to love what you do"   ║
-║                        — Steve Jobs                        ║
-╚════════════════════════════════════════════════════════════╝
+```text
+AI        ×        Software        ×        Creativity
+                ↓
+          Real-World Impact
 ```
 
-</div>
+---
+
+# ⚡ Beyond the Code
+
+```text
+☕ Coffee + Code
+🧠 Constant Learning
+🔬 Experimenting with AI
+🚀 Building Side Projects
+📚 Reading & Research
+🎯 Solving Problems
+🌍 Exploring Technology
+```
+
+---
+
+# 💬 Developer Mindset
+
+> **"The best way to predict the future is to create it."**
+
+I'm constantly experimenting with new technologies, building projects, breaking things, learning from them, and turning those lessons into better software.
+
+---
+
+# ⭐ If You Like My Work
+
+If you find one of my projects useful or interesting:
+
+⭐ Star the repository
+🍴 Fork it
+🐛 Report an issue
+💡 Share an idea
+🤝 Contribute
+
+Every bit of support is appreciated.
 
 ---
 
 <div align="center">
 
-**Built with ❤️ by Bishnu Prasad**
+# 👨‍💻 Bishnu Prasad
 
-![Visitors](https://komarev.com/ghpvc/?username=bishnu-prasad&style=flat-square&color=0099ff&label=Profile+Views)
+### AI/ML Engineer · Full-Stack Developer · Builder
 
-Last Updated: January 2024 | Actively Maintained ✨
+```text
+Python • AI • Machine Learning • FastAPI • React • Cloud
+```
+
+**Building intelligent products, one commit at a time. 🚀**
 
 </div>
