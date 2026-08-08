@@ -31,9 +31,17 @@
 
 ## 👋 Welcome to My GitHub!
 
-I'm **Bishnu Prasad**, a passionate **Full-Stack Developer**, **Machine Learning Engineer**, and **AI Specialist**. I learn new things about programming and share knowledge with others. With **3+ years** of hands-on experience, I've worked with cutting-edge technologies to build intelligent systems.
+Hi, I'm **Bishnu Prasad** — a Full-Stack Developer and Machine Learning Engineer passionate about building scalable web applications, intelligent systems, and real-time data solutions.
 
-Welcome to my GitHub! Here, you'll find my projects ranging from **deep learning models** to **production-ready web applications**, **real-time data systems**, and everything in between. I'm also an active contributor to open-source communities and love sharing what I learn.
+I work primarily with Python, FastAPI, React, Next.js, TypeScript, PostgreSQL, MongoDB, and Machine Learning. I enjoy turning ideas into practical, production-focused applications.
+
+On this GitHub, you'll find projects covering:
+* **Full-Stack Web Applications** & REST APIs
+* **Machine Learning & AI** Applications
+* **Real-Time Data** Processing & Systems
+* **Multi-Tenant SaaS** & Database Architecture
+
+Feel free to explore my repositories and follow along as I continue building and learning!
 
 ---
 
