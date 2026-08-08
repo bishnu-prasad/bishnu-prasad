@@ -69,7 +69,6 @@ I work primarily with Python, FastAPI, React, Next.js, TypeScript, PostgreSQL, M
 | Project | Description | Tech Stack |
 |---|---|---|
 | 🩺 **Predixa** | Full-stack platform for multi-disease prediction using Machine Learning | Python, FastAPI, React, Next.js, MongoDB, Scikit-learn, OpenCV |
-| 📡 **STMS V1** | Enterprise telecom monitoring and site telemetry management platform | Next.js, TypeScript, FastAPI, PostgreSQL, SQLAlchemy, Alembic, Redis, TimescaleDB, ClickHouse |
 | 📊 **FreeRADIUS AI Monitoring** | Real-time monitoring and analysis of FreeRADIUS authentication logs | Python, Watchdog, Regex, Streamlit, Plotly, Redis, PostgreSQL |
 | 🛡️ **Women's Safety Companion** | Mobile safety application with location tracking and emergency features | React Native, Expo, FastAPI, MongoDB, Google Maps API, Twilio |
 | 💓 **CardioPredict** | Machine Learning model for heart disease prediction | Python, Pandas, NumPy, Scikit-learn, FastAPI |
