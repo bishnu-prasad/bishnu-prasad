@@ -463,6 +463,8 @@ Welcome to my GitHub! Here, you'll find my projects ranging from **deep learning
     <a href="https://github.com/bishnu-prasad">
       <img alt="Bishnu's GitHub Activity" src="https://github-readme-activity-graph.vercel.app/graph?username=bishnu-prasad&bg_color=ffffff&color=000000&line=000000&point=000000&area=false&hide_border=false&custom_title=Contribution%20Activity" width="97%" />
     </a>
+    <br/><br/>
+    <img src="https://raw.githubusercontent.com/bishnu-prasad/bishnu-prasad/output/github-contribution-grid-snake.svg" alt="Bishnu's GitHub Contribution Grid Snake" width="97%" />
   </div>
 </details>
 
