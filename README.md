@@ -456,10 +456,10 @@ Feel free to explore my repositories and follow along as I continue building and
   <br/>
   <div align="center">
     <a href="https://github.com/bishnu-prasad">
-      <img alt="Bishnu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bishnu-prasad&show_icons=true&count_private=true&theme=transparent&hide_border=true" height="192px" />
+      <img alt="Bishnu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bishnu-prasad&show_icons=true&count_private=true&theme=default&hide_border=false&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000" height="192px" />
     </a>
     <a href="https://github.com/bishnu-prasad">
-      <img alt="Bishnu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishnu-prasad&langs_count=12&layout=compact&theme=transparent&hide_border=true" height="192px" />
+      <img alt="Bishnu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishnu-prasad&langs_count=12&layout=compact&theme=default&hide_border=false&bg_color=ffffff&title_color=000000&text_color=000000" height="192px" />
     </a>
   </div>
 </details>
@@ -468,7 +468,7 @@ Feel free to explore my repositories and follow along as I continue building and
 
 <div align="center">
   <a href="https://github.com/bishnu-prasad">
-    <img alt="Bishnu's GitHub Activity" src="https://github-readme-activity-graph.vercel.app/graph?username=bishnu-prasad&bg_color=00000000&hide_border=true&custom_title=Contribution%20Activity" width="97%" />
+    <img alt="Bishnu's GitHub Activity" src="https://github-readme-activity-graph.vercel.app/graph?username=bishnu-prasad&bg_color=ffffff&color=000000&line=000000&point=000000&area=false&hide_border=false&custom_title=Contribution%20Activity" width="97%" />
   </a>
   <br/><br/>
   <img src="https://raw.githubusercontent.com/bishnu-prasad/bishnu-prasad/output/github-contribution-grid-snake.svg" alt="Bishnu's GitHub Contribution Grid Snake" width="97%" />
